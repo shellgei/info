@@ -6,6 +6,7 @@ title: トップページ
 # シェル芸ってなに？
 
 
+* [定義](https://b.ueda.tech/?page=01434#%E3%82%B7%E3%82%A7%E3%83%AB%E8%8A%B8%E3%81%AE%E5%AE%9A%E7%BE%A9%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B311)
 * [歴史](history.html)
 
 
