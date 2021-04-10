@@ -60,12 +60,14 @@ title: シェル芸の歴史
 <tbody>
 
 
+<tr>
 <td>12月25日</td>
 <td><a href="https://togetter.com/li/1063223">jus共催 第26回シェル芸勉強会及びエクシェル芸勉強会</a></td>
 <td>大阪で漢字対応の巨大文字のLT後、<a href="https://twitter.com/eban/status/813261361622884352">ebanさんが簡単な方法を披露</a>して巨大文字ブーム続行。</td>
 </tr>
 
 
+<tr>
 <td>12月17日</td>
 <td>シェル芸勉強会組で<a href="http://gihyo.jp/magazine/SD/archive/2017/201701">SoftwareDesign 2017年1月号</a>の第一特集を分担執筆。</td>
 <td>あくまで「シェル30本ノック」という題だが、文面に何回もシェル芸と出てくるので、実質シェル芸30本ノック。</td>
