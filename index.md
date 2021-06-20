@@ -28,8 +28,6 @@ title: トップページ
 * ウェブサイト
     * [websh](https://websh.jiro4989.com/) by [@jiro_saburomaru](https://twitter.com/jiro_saburomaru)
         * テキストボックスにコマンドを入力して実行できる
-    * [SGWeb](https://shellgei-web.net/) by [@k3k3h0](https://twitter.com/k3k3h0)
-        * 同上
 
 # Linux環境の準備
 
