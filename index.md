@@ -32,8 +32,10 @@ title: トップページ
 # Linux環境の準備
 
 
-* Windows
-    * [Windows Subsystem for Linux（WSL）](WSL20200328.html)
+* WSL
+    * [Windows Subsystem for Linux（WSL1）のインストール手順](WSL20200328.html)
+    * [WSL1のインストール実演動画](https://youtu.be/JAszcQ8IEwg)
+    * WSL2については何かいい記事があればお願いします。
 
 
 # このサイトのtodo
