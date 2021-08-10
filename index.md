@@ -16,7 +16,7 @@ title: トップページ
     * [https://github.com/ryuichiueda/ShellGeiData <i class="fa fa-external-link"></i>](https://github.com/ryuichiueda/ShellGeiData) のvol.18〜にあります。
     * [シェル芸勉強会の過去問と解答例  <i class="fa fa-external-link"></i>](https://b.ueda.tech/?page=00684)
 * シェル芸人からの挑戦状のデータ
-    * [https://github.com/ryuichiueda/ShellGeiData  <i class="fa fa-external-link"></i>](https://github.com/ryuichiueda/ShellGeiData) のsd...にあります。
+    * [https://github.com/ryuichiueda/ShellGeiData <i class="fa fa-external-link"></i>](https://github.com/ryuichiueda/ShellGeiData) のsd...にあります。
 
 
 # シェル芸のできるサービスやウェブサイト
@@ -36,8 +36,9 @@ title: トップページ
     * [Windows Subsystem for Linux（WSL1）のインストール手順](WSL20200328.html)
     * [WSL1のインストール実演動画 <i class="fa fa-external-link"></i>](https://youtu.be/JAszcQ8IEwg)
     * WSL2については何かいい記事があればお願いします。
-* Raspberry PiにUbuntuをインストール
+* Raspberry Pi
     * [Ubuntu 20.04 Serverのインストール実演動画 <i class="fa fa-external-link"></i>](https://youtu.be/78tRID_3VVw)
+    * デフォルトの環境（Raspberry Pi OS）でもほとんどUbuntuと操作方法は同じです。（[Raspberry Pi公式のOSの案内ページ <i class="fa fa-external-link"></i>](https://www.raspberrypi.org/software/operating-systems/)）
 
 
 # このサイトのtodo
