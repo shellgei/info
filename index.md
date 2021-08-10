@@ -37,7 +37,7 @@ title: トップページ
     * [WSL1のインストール実演動画 <i class="fa fa-external-link"></i>](https://youtu.be/JAszcQ8IEwg)
     * WSL2については何かいい記事があればお願いします。
 * Raspberry PiにUbuntuをインストール
-    * [Ubuntu 20.04のインストール実演動画 <i class="fa fa-external-link"></i>](https://youtu.be/78tRID_3VVw)
+    * [Ubuntu 20.04 Serverのインストール実演動画 <i class="fa fa-external-link"></i>](https://youtu.be/78tRID_3VVw)
 
 
 # このサイトのtodo
