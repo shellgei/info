@@ -34,7 +34,7 @@ title: トップページ
 
 * WSL
     * [Windows Subsystem for Linux（WSL1）のインストール手順](WSL20200328.html)
-    * [WSL1のインストール実演動画<img src="icons/external-link-symbol_icon-icons.com_73577_32x32.png" />](https://youtu.be/JAszcQ8IEwg)
+    * [WSL1のインストール実演動画<img width="32" src="icons/external-link-symbol_icon-icons.com_73577_32x32.png" />](https://youtu.be/JAszcQ8IEwg)
     * WSL2については何かいい記事があればお願いします。
 
 
