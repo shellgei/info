@@ -39,6 +39,8 @@ title: トップページ
 * Raspberry Pi
     * [Ubuntu 20.04 Serverのインストール実演動画 <i class="fa fa-external-link"></i>](https://youtu.be/78tRID_3VVw)
     * デフォルトの環境（Raspberry Pi OS）でもほとんどUbuntuと操作方法は同じです。（[Raspberry Pi公式のOSの案内ページ <i class="fa fa-external-link"></i>](https://www.raspberrypi.org/software/operating-systems/)）
+* PCへの直接インストール
+    * 様々な解説がウェブ上にあります。
 
 
 # このサイトのtodo
