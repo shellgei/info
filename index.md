@@ -12,6 +12,8 @@ title: トップページ
 
 # 練習用データ
 
+* シェル・ワンライナー160本ノック用データ
+    * [https://github.com/shellgei/shellgei160 <i class="fa fa-external-link"></i>](https://github.com/shellgei/shellgei160)
 * シェル芸勉強会用データ
     * [https://github.com/ryuichiueda/ShellGeiData <i class="fa fa-external-link"></i>](https://github.com/ryuichiueda/ShellGeiData) のvol.18〜にあります。
     * [シェル芸勉強会の過去問と解答例  <i class="fa fa-external-link"></i>](https://b.ueda.tech/?page=00684)
