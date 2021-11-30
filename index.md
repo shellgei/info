@@ -35,7 +35,7 @@ title: トップページ
 
 
 * WSL
-    * 簡単になりました: [WSLのインストール | Microsoft](https://docs.microsoft.com/ja-jp/windows/wsl/install)
+    * 簡単になりました: [WSLのインストール / Microsoft](https://docs.microsoft.com/ja-jp/windows/wsl/install)
     * 過去のもの
         * [Windows Subsystem for Linux（WSL1）のインストール手順](WSL20200328.html)
         * [WSL1のインストール実演動画 <i class="fa fa-external-link"></i>](https://youtu.be/JAszcQ8IEwg)
