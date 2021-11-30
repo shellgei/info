@@ -35,9 +35,10 @@ title: トップページ
 
 
 * WSL
-    * [Windows Subsystem for Linux（WSL1）のインストール手順](WSL20200328.html)
-    * [WSL1のインストール実演動画 <i class="fa fa-external-link"></i>](https://youtu.be/JAszcQ8IEwg)
-    * WSL2については何かいい記事があればお願いします。
+    * 簡単になりました: [WSLのインストール | Microsoft](https://docs.microsoft.com/ja-jp/windows/wsl/install)
+    * 過去のもの
+        * [Windows Subsystem for Linux（WSL1）のインストール手順](WSL20200328.html)
+        * [WSL1のインストール実演動画 <i class="fa fa-external-link"></i>](https://youtu.be/JAszcQ8IEwg)
 * Raspberry Pi
     * [Ubuntu 20.04 Serverのインストール実演動画 <i class="fa fa-external-link"></i>](https://youtu.be/78tRID_3VVw)
     * デフォルトの環境（Raspberry Pi OS）でもほとんどUbuntuと操作方法は同じです。（[Raspberry Pi公式のOSの案内ページ <i class="fa fa-external-link"></i>](https://www.raspberrypi.org/software/operating-systems/)）
